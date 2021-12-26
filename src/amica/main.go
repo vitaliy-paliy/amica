@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/vitaliy-paliy/amica/pkg/server"
+  	"github.com/vitaliy-paliy/amica/pkg/server"
 )
 
 func main() {
